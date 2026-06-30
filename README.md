@@ -4,22 +4,25 @@
   <img src="https://komarev.com/ghpvc/?username=AkerDark&color=00ffcc&style=flat-square&label=OPERATOR+VISITS" alt="Visitas de Operador" />
 </p>
 
-```text
+<pre>
 [+] HOSTNAME: AkerDark
 [+] OBJECTIVE: SECURE // AUDIT // OPTIMIZE
 [+] STATUS: ACTIVE_
+</pre>
+
+---
 
 ## 🌌 0x01 / SOBRE MÍ
 
 Soy un especialista enfocado en **Ciberseguridad**, **auditoría de redes** y la **estructuración y conexión eficiente de Data Centers**. Mi enfoque principal está en el diseño de arquitecturas de datos redundantes, la fortificación de infraestructura perimetral y la automatización de despliegues seguros bajo entornos Linux avanzados.
 
-- 🛠️ **Áreas de Operación:** Conexiones críticas de red, topología de centros de datos y mitigación de vulnerabilidades.
-- ⚙️ **Sistemas Base:** Operando exclusivamente en entornos de bajo nivel y auditoría avanzada.
-- 🎯 **Misión:** Desarrollar entornos e infraestructuras de datos sólidas, automatizadas y blindadas mediante código limpio y auditorías rigurosas.
+* 🛠️ **Áreas de Operación:** Conexiones críticas de red, topología de centros de datos y mitigación de vulnerabilidades.
+* ⚙️ **Sistemas Base:** Operando exclusivamente en entornos de bajo nivel y auditoría avanzada.
+* 🎯 **Misión:** Desarrollar entornos e infraestructuras de datos sólidas, automatizadas y blindadas mediante código limpio y auditorías rigurosas.
 
 ---
 
-## 🚀 0x02 / LAB ENVIROMENT & TOOLS
+## 🚀 0x02 / LAB ENVIRONMENT & TOOLS
 
 ### 💻 OS & Núcleo de Operaciones
 <p align="left">
@@ -37,14 +40,14 @@ Soy un especialista enfocado en **Ciberseguridad**, **auditoría de redes** y la
 
 ---
 
-
-
 ## 📊 0x03 / MÉTRICAS DE OPERACIONES (LIVE STATS)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkerDark&show_icons=true&theme=tokyonight&hide_border=true&locale=es&title_color=00ffcc&icon_color=8a2be2&text_color=ffffff&cache_seconds=1800" width="48%" alt="Estadísticas de Ciberseguridad de AkerDark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkerDark&theme=tokyonight&hide_border=true&locale=es&ring=00ffcc&fire=8a2be2" width="48%" alt="Racha de Commits Activos" />
 </p>
+
+---
 
 ## 🔒 0x04 / LOG DE ACTIVIDAD RECIENTE
 
