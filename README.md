@@ -4,15 +4,15 @@
   <img src="https://komarev.com/ghpvc/?username=AkerDark&color=00ffcc&style=flat-square&label=OPERATOR+VISITS" alt="Visitas de Operador" />
 </p>
 
-<pre>
-[+] HOSTNAME: AkerDark
-[+] OBJECTIVE: SECURE // AUDIT // OPTIMIZE
-[+] STATUS: ACTIVE_
-</pre>
+<p align="center">
+  <code><b>[+] HOSTNAME:</b> AkerDark</code> &nbsp;&bull;&nbsp; 
+  <code><b>[+] OBJECTIVE:</b> SECURE // AUDIT // OPTIMIZE</code> &nbsp;&bull;&nbsp; 
+  <code><b>[+] STATUS:</b> ACTIVE_</code>
+</p>
 
 ---
 
-## 🌌 0x01 / SOBRE MÍ
+## 🌌 SOBRE MÍ
 
 Soy un especialista enfocado en **Ciberseguridad**, **auditoría de redes** y la **estructuración y conexión eficiente de Data Centers**. Mi enfoque principal está en el diseño de arquitecturas de datos redundantes, la fortificación de infraestructura perimetral y la automatización de despliegues seguros bajo entornos Linux avanzados.
 
@@ -22,15 +22,15 @@ Soy un especialista enfocado en **Ciberseguridad**, **auditoría de redes** y la
 
 ---
 
-## 🚀 0x02 / LAB ENVIRONMENT & TOOLS
+## 🚀 ENTORNO DE TRABAJO Y HERRAMIENTAS
 
-### 💻 OS & Núcleo de Operaciones
+### 💻 Sistemas Operativos
 <p align="left">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
 </p>
 
-### 🔧 Automatización, Infraestructura y Despliegue Secundario
+### 🔧 Automatización e Infraestructura
 <p align="left">
   <img src="https://img.shields.io/badge/BASH%20SHELL-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/ASTRO%20FRAMEWORK-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
@@ -40,7 +40,7 @@ Soy un especialista enfocado en **Ciberseguridad**, **auditoría de redes** y la
 
 ---
 
-## 📊 0x03 / ESTATUS DEL SISTEMA
+## 📊 ESTATUS DEL SISTEMA
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkerDark&theme=tokyonight&hide_border=true&locale=es&ring=00ffcc&fire=8a2be2" width="48%" alt="Racha de Commits Activos" />
@@ -49,7 +49,7 @@ Soy un especialista enfocado en **Ciberseguridad**, **auditoría de redes** y la
 
 ---
 
-## 🔒 0x04 / LOG DE ACTIVIDAD RECIENTE
+## 🔒 LOG DE ACTIVIDAD RECIENTE
 
 | Módulo / Proyecto | Tipo de Operación | Estado |
 | :--- | :--- | :--- |
