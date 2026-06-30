@@ -14,7 +14,7 @@
 
 ## 🌌 SOBRE MÍ
 
-Soy un especialista enfocado en **Ciberseguridad**, **auditoría de redes** y la **estructuración y conexión eficiente de Data Centers**. Mi enfoque principal está en el diseño de arquitecturas de datos redundantes, la fortificación de infraestructura perimetral y la automatización de despliegues seguros bajo entornos Linux avanzados.
+Soy un estudiante enfocado en **Ciberseguridad**, **auditoría de redes** y la **estructuración y conexión eficiente de Data Centers**. Mi enfoque principal está en el diseño de arquitecturas de datos redundantes, la fortificación de infraestructura perimetral y la automatización de despliegues seguros bajo entornos Linux avanzados.
 
 * 🛠️ **Áreas de Operación:** Conexiones críticas de red, topología de centros de datos y mitigación de vulnerabilidades.
 * ⚙️ **Sistemas Base:** Operando exclusivamente en entornos de bajo nivel y auditoría avanzada.
