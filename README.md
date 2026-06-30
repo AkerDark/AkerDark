@@ -40,11 +40,11 @@ Soy un especialista enfocado en **Ciberseguridad**, **auditoría de redes** y la
 
 ---
 
-## 📊 0x03 / MÉTRICAS DE OPERACIONES (LIVE STATS)
+## 📊 0x03 / ESTATUS DEL SISTEMA
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkerDark&show_icons=true&theme=tokyonight&hide_border=true&locale=es&title_color=00ffcc&icon_color=8a2be2&text_color=ffffff&cache_seconds=1800" width="48%" alt="Estadísticas de Ciberseguridad de AkerDark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkerDark&theme=tokyonight&hide_border=true&locale=es&ring=00ffcc&fire=8a2be2" width="48%" alt="Racha de Commits Activos" />
+  <img src="https://img.shields.io/badge/SYSTEM%20STATUS-STABLE-00ffcc?style=for-the-badge&labelColor=1a1a1a" width="45%" alt="System Status" />
 </p>
 
 ---
