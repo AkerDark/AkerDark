@@ -5,10 +5,10 @@ Markdown
   <img src="https://komarev.com/ghpvc/?username=AkerDark&color=00ffcc&style=flat-square&label=OPERATOR+VISITS" alt="Visitas de Operador" />
 </p>
 
+```text
 [+] HOSTNAME: AkerDark
 [+] OBJECTIVE: SECURE // AUDIT // OPTIMIZE
 [+] STATUS: ACTIVE_
-
 ---
 
 ## 🌌 0x01 / SOBRE MÍ
@@ -39,14 +39,14 @@ Soy un especialista enfocado en **Ciberseguridad**, **auditoría de redes** y la
 
 ---
 
+
+
 ## 📊 0x03 / MÉTRICAS DE OPERACIONES (LIVE STATS)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkerDark&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locale=es&title_color=00ffcc&icon_color=8a2be2&text_color=ffffff" width="48%" alt="Estadísticas de Ciberseguridad de AkerDark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkerDark&show_icons=true&theme=tokyonight&hide_border=true&locale=es&title_color=00ffcc&icon_color=8a2be2&text_color=ffffff&cache_seconds=1800" width="48%" alt="Estadísticas de Ciberseguridad de AkerDark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkerDark&theme=tokyonight&hide_border=true&locale=es&ring=00ffcc&fire=8a2be2" width="48%" alt="Racha de Commits Activos" />
 </p>
-
----
 
 ## 🔒 0x04 / LOG DE ACTIVIDAD RECIENTE
 
