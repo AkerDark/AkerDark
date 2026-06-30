@@ -1,16 +1,63 @@
-## Hi there 👋
+Markdown
+# 💀 SEC-OPERATIONS: AkerDark // TERMINAL INTRUSION DETECTED
 
-<!--
-**AkerDark/AkerDark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkerDark&color=00ffcc&style=flat-square&label=OPERATOR+VISITS" alt="Visitas de Operador" />
+</p>
 
-Here are some ideas to get you started:
+[+] HOSTNAME: AkerDark
+[+] OBJECTIVE: SECURE // AUDIT // OPTIMIZE
+[+] STATUS: ACTIVE_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌌 0x01 / SOBRE MÍ
+
+Soy un especialista enfocado en **Ciberseguridad**, **auditoría de redes** y la **estructuración y conexión eficiente de Data Centers**. Mi enfoque principal está en el diseño de arquitecturas de datos redundantes, la fortificación de infraestructura perimetral y la automatización de despliegues seguros bajo entornos Linux avanzados.
+
+- 🛠️ **Áreas de Operación:** Conexiones críticas de red, topología de centros de datos y mitigación de vulnerabilidades.
+- ⚙️ **Sistemas Base:** Operando exclusivamente en entornos de bajo nivel y auditoría avanzada.
+- 🎯 **Misión:** Desarrollar entornos e infraestructuras de datos sólidas, automatizadas y blindadas mediante código limpio y auditorías rigurosas.
+
+---
+
+## 🚀 0x02 / LAB ENVIROMENT & TOOLS
+
+### 💻 OS & Núcleo de Operaciones
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+</p>
+
+### 🔧 Automatización, Infraestructura y Despliegue Secundario
+<p align="left">
+  <img src="https://img.shields.io/badge/BASH%20SHELL-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/ASTRO%20FRAMEWORK-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/GIT%20VERSION-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+</p>
+
+---
+
+## 📊 0x03 / MÉTRICAS DE OPERACIONES (LIVE STATS)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkerDark&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locale=es&title_color=00ffcc&icon_color=8a2be2&text_color=ffffff" width="48%" alt="Estadísticas de Ciberseguridad de AkerDark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkerDark&theme=tokyonight&hide_border=true&locale=es&ring=00ffcc&fire=8a2be2" width="48%" alt="Racha de Commits Activos" />
+</p>
+
+---
+
+## 🔒 0x04 / LOG DE ACTIVIDAD RECIENTE
+
+| Módulo / Proyecto | Tipo de Operación | Estado |
+| :--- | :--- | :--- |
+| `📦 Infraestructura Segura` | Estructuración y Redundancia de Data Centers | `[ ANALIZANDO ]` |
+| `🤖 Bash Automation` | Scripts de automatización y auditoría perimetral | `[ OPTIMIZADO ]` |
+| `🌐 Astro Tech Blog` | Despliegue de documentación técnica y bitácora | `[ DESPLEGADO ]` |
+
+---
+
+<p align="center">
+  <code>⚡ "La seguridad no es un producto, es un proceso ininterrumpido." // EOF</code>
+</p>
