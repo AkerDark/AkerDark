@@ -1,4 +1,3 @@
-Markdown
 # 💀 SEC-OPERATIONS: AkerDark // TERMINAL INTRUSION DETECTED
 
 <p align="center">
@@ -9,7 +8,6 @@ Markdown
 [+] HOSTNAME: AkerDark
 [+] OBJECTIVE: SECURE // AUDIT // OPTIMIZE
 [+] STATUS: ACTIVE_
----
 
 ## 🌌 0x01 / SOBRE MÍ
 
